@@ -1,4 +1,4 @@
-# Road Accident Analysis (Sample Data Analyst Project)
+# Road Accident Analysis (Data Analyst Project)
 
 A simple data analysis project. It looks at **one factor – Primary Cause** – to find which cause of road accidents is the most dangerous. Tools: Python, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook.
 
